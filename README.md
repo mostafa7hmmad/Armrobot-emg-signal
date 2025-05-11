@@ -1,7 +1,7 @@
 
 
 # EMG Signal Classification for Hand/Arm Movements
-
+![img](emfjpg)
 This project showcases a complete machine learning pipeline for classifying hand and arm movements using EMG (Electromyography) sensor data. The signals are collected from three muscle regions: **biceps**, **triceps**, and **middle finger**.
 
 ---
